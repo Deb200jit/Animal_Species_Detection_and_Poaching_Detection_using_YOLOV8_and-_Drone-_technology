@@ -1,3 +1,16 @@
+Dataset Link: - 
+https://www.kaggle.com/datasets/rijubera2000/poaching-and-animal-detection-dataset 
+
+Source Code of Model Training: https://www.kaggle.com/rijubera2000/final-year-project-model
+traing
+
+Source Code for detection from images: https://colab.research.google.com/drive/1SPH7X6XEnHMwNE3sKk24XZcJJx
+qx8mh#scrollTo=jT_3KY2NJzWP
+
+Source Code for Unknown Species Detection: 
+https://colab.research.google.com/drive/1LuEOH-NlLxPHCFkbLqsrGMn8ltvgZwJp?usp=drive_link
+
+
 # Animal_Species_Detection_and_Poaching_Detection_using_YOLOV8_and-_Drone-_technology
 Our project integrates cutting-edge Computer Vision Surveillance and Drone Technology, powered by the YOLOv8 algorithm. With a team of six members, we've developed a system to detect and monitor wildlife, identify unknown species, and swiftly detect poachers in real-time, revolutionizing conservation efforts for our planet's ecosystems.
 
