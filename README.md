@@ -1,0 +1,2 @@
+# Animal_Species_Detection_and_Poaching_Detection_using_YOLOV8_and-_Drone-_technology
+Our project integrates cutting-edge Computer Vision Surveillance and Drone Technology, powered by the YOLOv8 algorithm. With a team of six members, we've developed a system to detect and monitor wildlife, identify unknown species, and swiftly detect poachers in real-time, revolutionizing conservation efforts for our planet's ecosystems.
