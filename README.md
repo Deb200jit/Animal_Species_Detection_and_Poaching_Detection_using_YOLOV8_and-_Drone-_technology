@@ -1,13 +1,10 @@
-![Drone image5](https://github.com/Deb200jit/Animal_Species_Detection_and_Poaching_Detection_using_YOLOV8_and-_Drone-_technology/assets/74977784/5bcc69e8-edec-4058-b16d-b360bace87c6)![image](https://github.com/Deb200jit/Animal_Species_Detection_and_Poaching_Detection_using_YOLOV8_and-_Drone-_technology/assets/74977784/ec7b75a9-7215-4887-a727-9a7bc7624879)![Unknown_species_detection2](https://github.com/Deb200jit/Animal_Species_Detection_and_Poaching_Detection_using_YOLOV8_and-_Drone-_technology/assets/74977784/a8ccb879-7ec3-4932-b940-41cb4502ea75)![Unknown_species_detection2](https://github.com/Deb200jit/Animal_Species_Detection_and_Poaching_Detection_using_YOLOV8_and-_Drone-_technology/assets/74977784/9cbd88f5-c764-44e7-86e6-4649d5e728b1)Dataset Link: - 
-https://www.kaggle.com/datasets/rijubera2000/poaching-and-animal-detection-dataset 
+Dataset Link: - https://www.kaggle.com/datasets/rijubera2000/poaching-and-animal-detection-dataset 
 
 Source Code of Model Training: https://www.kaggle.com/rijubera2000/final-year-project-model-traing
 
-Source Code for detection from images: https://colab.research.google.com/drive/1SPH7X6XEnHMwNE3sKk24XZcJJx
-qx8mh#scrollTo=jT_3KY2NJzWP
+Source Code for detection from images: https://colab.research.google.com/drive/1SPH7X6XEnHMwNE3sKk24XZcJJxqx8mh#scrollTo=jT_3KY2NJzWP
 
-Source Code for Unknown Species Detection: 
-https://colab.research.google.com/drive/1LuEOH-NlLxPHCFkbLqsrGMn8ltvgZwJp?usp=drive_link
+Source Code for Unknown Species Detection: https://colab.research.google.com/drive/1LuEOH-NlLxPHCFkbLqsrGMn8ltvgZwJp?usp=drive_link
 
 
 # Animal_Species_Detection_and_Poaching_Detection_using_YOLOV8_and-_Drone-_technology
